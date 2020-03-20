@@ -1,4 +1,3 @@
 /instance/settings.cfg
 /gunicorn/gunicorn.conf
 /.idea
-/logs
